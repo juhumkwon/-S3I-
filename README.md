@@ -18,3 +18,6 @@ Iris 데이터셋 사용하여 정상 클래스는 setosa (label=0)이고, 테�
 - K-Means와 DBSCAN의 클러스터링 결과 그래프
 - WCSS, Silhouette Score 계산 결과
 - 각 알고리즘의 장단점 분석 보고서
+
+[텐서플로 기능설명]
+https://chatgpt.com/share/68c63f98-0038-8001-86bc-cef1864fc7c7
