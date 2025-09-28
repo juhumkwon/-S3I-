@@ -23,7 +23,7 @@ Iris 데이터셋 사용하여 정상 클래스는 setosa (label=0)이고, 테�
 https://chatgpt.com/share/68c63f98-0038-8001-86bc-cef1864fc7c7
 
 [과제: MNIST 분류기 제작 및 개선]
-본 과목의 실습프로그램이 있는 https://github.com/juhumkwon/-S3I-에서 
+본 과목의 실습프로그램이 있는 https://github.com/juhumkwon/-S3I- 에서 
 Assignment_MNIST_분류기_제작_및_개선.ipynb을 활용하여 아래 [세부 과제 내용]을 수행하라.\
 
 먼저, 위 코드에 대해 기본 MLP 모델을 구현하고,
